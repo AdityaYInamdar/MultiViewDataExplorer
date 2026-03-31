@@ -84,8 +84,8 @@ A high-performance data exploration tool that presents a single dataset through 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/multi-view-data-explorer.git
-cd multi-view-data-explorer
+git clone https://github.com/AdityaYInamdar/MultiViewDataExplorer.git
+cd MultiViewDataExplorer
 
 # Install dependencies
 npm install
